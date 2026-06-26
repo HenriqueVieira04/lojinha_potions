@@ -5,7 +5,7 @@
 ## estrutura do projeto
 
 ```
-finalSesmtre/
+lojinha_potions/
 ├── backend/                  # api rest (express + sequelize + jwt)
 │   ├── package.json
 │   └── server.js             # servidor, modelos, rotas e seed
