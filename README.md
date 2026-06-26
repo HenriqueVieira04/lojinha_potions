@@ -1,4 +1,4 @@
-### Henrique Vieira Lima (15459372)
+### Henrique Vieira Lima
 
 ---
 
